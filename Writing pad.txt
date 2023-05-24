@@ -1,0 +1,23 @@
+Test cases for Writing pad:
+===========================
+
+* Verify the colour of writing pad 
+* Verify the brand name and logo is correctly fixed 
+* Is name and logo color is correct 
+* Verify the length of the pad 
+* Is Length is correctly suitable for normal size paper and A4 sheet 
+* Front side is Smooth or not
+* Back side is not smooth because it's is gripped for users 
+* Verify the product metal is wood or plastic or silver 
+* All the edges are blend 
+* The clip is fix for correct position or not 
+* That the clip is properly work or not 
+* How much papers are put in the clip 
+* If the clip is steal whether it is rust or not 
+* Verify clip is waterproof or not 
+* Which condition is better for steal 
+* Consider this one is waterproof then how long time this will work 
+* Clip is rip the paper or not 
+* Which types of papers are suitable for this pad 
+* This one is easly broken type or not
+* How much pressure can be applied
